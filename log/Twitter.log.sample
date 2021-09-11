@@ -1,0 +1,2 @@
+INFO     2021-09-11 12:15:09,940 started logging logfile=../log/Twitter.log at Logger#__init__() lineno=153
+INFO     2021-09-11 12:16:27,756 end logging! critical=0 error=0 warning=0 elapsed=0:01:18.115238 at Logger#delete_logger() lineno=119
