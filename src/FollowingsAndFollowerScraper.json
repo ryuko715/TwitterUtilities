@@ -1,0 +1,18 @@
+{
+    "LOG": {
+        "FILE": "../log/Twitter.log",
+        "LEVEL": "INFO",
+        "STDOUT": "ON"
+    },
+    "TWITTER": {
+        "ID"              : "Please rewrite to your id!",
+        "CONSUMER_KEY"    : "Please rewrite to your consumer key!",
+        "CONSUMER_SEC_KEY": "Please rewrite to your consumer sec key!",
+        "ACCESS_TOKEN"    : "Please rewrite to your access token!",
+        "ACCESS_SEC_TOKEN": "Please rewrite to your access sec token!"
+    },
+    "OUTPUT": {
+        "FOLLOWERS": "../output/followers.csv",
+        "FOLLOWINGS": "../output/followings.csv"
+    }
+}
